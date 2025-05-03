@@ -1,2 +1,2 @@
 # Aztec-Sequencer-Node
-A step by step guide on how to Install Aztec Network Sequencer on Aztec alpha-testnet
+A step by step guide on how to Install Aztec Network Sequencer on Aztec alpha-testnet and earn Apprentice Role.
